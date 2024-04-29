@@ -22,5 +22,6 @@ public class App {
         BugUtils.addBug();
         System.out.println("Does Program have bugs now?");
         System.out.println(BugUtils.isHaveBugs());
+
     }
 }
