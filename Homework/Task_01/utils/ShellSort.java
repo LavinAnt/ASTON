@@ -1,8 +1,6 @@
 package utils;
 
-import java.util.List;
-
-public class ShellSort {
+final public class ShellSort {
         public static void sort(int[] array) {
             int n = array.length;
 
